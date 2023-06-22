@@ -1,7 +1,6 @@
  
 import './App.css';
 import React from 'react';
-import { ReactDOM } from 'react';
 import { Content } from './Content';
 
 
