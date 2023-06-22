@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import {MdRemoveShoppingCart} from 'react-icons/md'
 import {FaCartArrowDown} from 'react-icons/fa'
 import {getItem,setItem} from '../services/LocalStorageFuncs';
-import {Link} from "react-router-dom"
 import { Header } from "../components/Header";
 import "./Store.css";
 
