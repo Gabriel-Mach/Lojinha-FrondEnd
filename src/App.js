@@ -1,0 +1,17 @@
+ 
+import './App.css';
+import React from 'react';
+import { ReactDOM } from 'react';
+import { Content } from './Content';
+
+
+function App() {
+  return (
+    <div className="App">
+      <Content/>
+       
+    </div>
+  );
+}
+
+export default App;

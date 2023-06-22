@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=IBM+Plex+Sans:ital,wght@0,200;1,300;1,400&display=swap');
+
+.productsArea{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../Assets/fundo.png");
+    padding: 20px;
+    
+}
+.Products{
+    background-image: url("../Assets/fundo.png");
+    border-radius: 50px;
+    height: 300px;
+    width:250px;
+    border:1px solid rgb(255, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+
+}
+.Products h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Abel', serif;
+}
+.button{
+    font-size: 30px;
+    padding-top: 5px;
+    padding: 5px;
+    color: rgb(255, 251, 4);
+    background:transparent;
+    border: none;
+}
+.Subtotal{
+    font-family:Cambria, Cochin, Georgia, Times, 'Abel', serif;
+    font-size: 25px;
+    color: #000000;
+    padding: 8px 16px;
+    
+}
