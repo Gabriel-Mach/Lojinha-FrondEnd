@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Abel&family=IBM+Plex+Sans:ital,wght@0,200;1,300;1,400&display=swap');
 
 .productsArea{
     display: flex;
@@ -23,9 +22,7 @@
     padding: 10px;
 
 }
-.Products h4{
-    font-family:Cambria, Cochin, Georgia, Times, 'Abel', serif;
-}
+
 .button{
     font-size: 30px;
     padding-top: 5px;
@@ -35,7 +32,6 @@
     border: none;
 }
 .Subtotal{
-    font-family:Cambria, Cochin, Georgia, Times, 'Abel', serif;
     font-size: 25px;
     color: #000000;
     padding: 8px 16px;
